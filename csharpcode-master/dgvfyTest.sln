@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dgvfyTest", "dgvfyTest\dgvfyTest.csproj", "{9233837D-47F3-4297-8169-193FA77EF02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dgvfy", "dgvfy\dgvfy.csproj", "{4BBB2C85-1CB6-4AC5-9FFC-176B126CF6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9233837D-47F3-4297-8169-193FA77EF02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9233837D-47F3-4297-8169-193FA77EF02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9233837D-47F3-4297-8169-193FA77EF02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9233837D-47F3-4297-8169-193FA77EF02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBB2C85-1CB6-4AC5-9FFC-176B126CF6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBB2C85-1CB6-4AC5-9FFC-176B126CF6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBB2C85-1CB6-4AC5-9FFC-176B126CF6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBB2C85-1CB6-4AC5-9FFC-176B126CF6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

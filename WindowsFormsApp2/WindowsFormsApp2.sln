@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "获取特性值", "ConsoleApp1\获取特性值.csproj", "{8622EAA2-6C4C-4191-B923-A9D14464DCD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "特性的继承", "ConsoleApp2\特性的继承.csproj", "{F537F913-9E3B-46A3-ABE5-7252E9E613B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "反射获取对象属性名", "ConsoleApp4\反射获取对象属性名.csproj", "{F6C53B58-2DC8-4BD3-9F2A-26590E930A78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象类虚方法", "抽象类虚方法\抽象类虚方法.csproj", "{A62525A5-42D2-41AC-90F2-FEAC67B9C334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "ConsoleApp6\接口.csproj", "{CD8EA45D-6214-4EB4-A0C5-2BDEC87178F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "返回抽象方法", "ConsoleApp7\返回抽象方法.csproj", "{9B7CB1D8-FBE1-4419-BCB1-BDEC4A843BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "鼠标键盘事件", "WindowsFormsApp1\鼠标键盘事件.csproj", "{53D46599-8837-4A3E-A1FB-0A8DE87D9262}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8622EAA2-6C4C-4191-B923-A9D14464DCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8622EAA2-6C4C-4191-B923-A9D14464DCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8622EAA2-6C4C-4191-B923-A9D14464DCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8622EAA2-6C4C-4191-B923-A9D14464DCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F537F913-9E3B-46A3-ABE5-7252E9E613B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F537F913-9E3B-46A3-ABE5-7252E9E613B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F537F913-9E3B-46A3-ABE5-7252E9E613B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F537F913-9E3B-46A3-ABE5-7252E9E613B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C53B58-2DC8-4BD3-9F2A-26590E930A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C53B58-2DC8-4BD3-9F2A-26590E930A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C53B58-2DC8-4BD3-9F2A-26590E930A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C53B58-2DC8-4BD3-9F2A-26590E930A78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62525A5-42D2-41AC-90F2-FEAC67B9C334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62525A5-42D2-41AC-90F2-FEAC67B9C334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62525A5-42D2-41AC-90F2-FEAC67B9C334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62525A5-42D2-41AC-90F2-FEAC67B9C334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8EA45D-6214-4EB4-A0C5-2BDEC87178F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8EA45D-6214-4EB4-A0C5-2BDEC87178F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8EA45D-6214-4EB4-A0C5-2BDEC87178F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8EA45D-6214-4EB4-A0C5-2BDEC87178F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7CB1D8-FBE1-4419-BCB1-BDEC4A843BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7CB1D8-FBE1-4419-BCB1-BDEC4A843BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7CB1D8-FBE1-4419-BCB1-BDEC4A843BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7CB1D8-FBE1-4419-BCB1-BDEC4A843BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53D46599-8837-4A3E-A1FB-0A8DE87D9262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53D46599-8837-4A3E-A1FB-0A8DE87D9262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53D46599-8837-4A3E-A1FB-0A8DE87D9262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53D46599-8837-4A3E-A1FB-0A8DE87D9262}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
